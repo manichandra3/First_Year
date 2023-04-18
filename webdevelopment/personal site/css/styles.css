@@ -1,0 +1,44 @@
+body {
+  background-color: #eaf6f6;
+}
+hr {
+  background-color: #eaf6f6;
+  border-color: gray;
+  border-style: dotted none none;
+  border-width: 5px;
+  width: 10%;
+}
+h1 {
+  color: #66bfbf;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size:  300%;
+}
+h1:hover {
+  color: #66bfbf;
+}
+img:hover {
+  height: 200px;
+  width: 200px;
+}
+h3 {
+  color: #66bfbf;
+}
+h4 {
+  color: #66bfbf;
+}
+
+.blinking-text:hover {
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
