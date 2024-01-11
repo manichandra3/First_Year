@@ -1,0 +1,1 @@
+{"name":"Local: q1","url":"/Users/manichandraganapathri/first_year/assignments/assignment3/q1.c","tests":[{"id":1683740051201,"input":"a+b*c","output":"+a*bc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/manichandraganapathri/first_year/assignments/assignment3/q1.c","group":"local","local":true}

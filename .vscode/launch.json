@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/manichandraganapathri/first_year",
-      "program": "/Users/manichandraganapathri/first_year/build/Debug/outDebug"
+      "cwd": "/Users/manichandraganapathri/first_year/data_structures/assignment9",
+      "program": "/Users/manichandraganapathri/first_year/data_structures/assignment9/build/Debug/outDebug"
     }
   ]
 }
